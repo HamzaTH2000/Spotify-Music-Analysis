@@ -2,7 +2,8 @@
  
  # Spotify Streaming Insights Report
 
-<img width="900" alt="new screenshot" src="https://github.com/user-attachments/assets/7c3f98ed-42e6-48e0-ab3c-5d8190a27ed9">
+<img width="900" alt="newest pic" src="https://github.com/user-attachments/assets/1b06b3e8-50ec-4ab9-9989-bbee5e5e9f79">
+
 
 
 ## Key Performance Indicators (KPIs):
