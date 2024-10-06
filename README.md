@@ -2,7 +2,8 @@
  
  # Spotify Streaming Insights Report
 
-<img width="900" alt="Screenshot 2024-10-06 021846" src="https://github.com/user-attachments/assets/242daf36-9681-48bd-8628-b49f5e740434">
+<img width="900" alt="new screenshot" src="https://github.com/user-attachments/assets/7c3f98ed-42e6-48e0-ab3c-5d8190a27ed9">
+
 
 ## Key Performance Indicators (KPIs):
 - **Total Streams:** 486.9 Billion
