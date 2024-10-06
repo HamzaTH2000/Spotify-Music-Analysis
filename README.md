@@ -1,4 +1,6 @@
-# Spotify Streaming Insights Report
+
+ 
+ # Spotify Streaming Insights Report
 
 <img width="900" alt="Screenshot 2024-10-06 021846" src="https://github.com/user-attachments/assets/242daf36-9681-48bd-8628-b49f5e740434">
 
@@ -21,7 +23,7 @@ These KPIs highlight the immense volume of music consumption on Spotify, with ea
 ### Insight:
 The Weeknd, Taylor Swift, and Ed Sheeran dominate Spotify's top ranks, each nearing or surpassing 14 billion streams. Their consistent presence in the charts reflects their global appeal and the loyalty of their fan bases. Artists like Harry Styles and Bad Bunny, with their unique musical styles, also stand out, showcasing the diversity in listener preferences. The list also includes veteran artists like Eminem and Bruno Mars, indicating that long-standing artists still maintain significant influence over the streaming landscape.
 
-## Top Tracks by Streams:
+##  <img width="30" height="30" alt="musical-note" src="https://github.com/user-attachments/assets/424c103b-6abb-405b-9d85-df9aa0c75334"> Top Tracks by Streams:
 - **Blinding Lights** – The Weeknd (3.7 Billion)
 - **Shape of You** – Ed Sheeran (3.6 Billion)
 - **Someone You Loved** – Lewis Capaldi (2.9 Billion)
