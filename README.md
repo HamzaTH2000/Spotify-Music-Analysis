@@ -14,7 +14,7 @@
 These KPIs highlight the immense volume of music consumption on Spotify, with each track averaging over half a billion streams, a testament to the platform's wide reach and listener engagement.
 
 ## Top Artists by Streams:
-<img width="100" height="120" alt="weeknd" src="https://github.com/user-attachments/assets/8e4bf562-81ff-456b-9906-d555e8716cc1"> <img width="100" height="120" alt="taylor swift" src="https://github.com/user-attachments/assets/97d7b88c-4cd1-4775-9e15-5031e3c9c05b"> <img width="100" height="120" alt="ed sheeren" src="https://github.com/user-attachments/assets/091786d6-bca2-4037-981c-e6cf45afd26d"> <img width="100" height="120" alt="harry style" src="https://github.com/user-attachments/assets/e6f483d9-e912-4454-8900-006742b10b40"> <img width="100" height="120" alt="bad bunny" src="https://github.com/user-attachments/assets/44b9a227-2b44-48fd-80d6-15ded2272c09"> 
+
 - **The Weeknd:** 14.2 Billion
 - **Taylor Swift:** 14.1 Billion
 - **Ed Sheeran:** 13.9 Billion
